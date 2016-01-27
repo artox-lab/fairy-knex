@@ -1,0 +1,19 @@
+{
+  "name": "fairy-knex",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artox-lab/fairy-knex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artox-lab/fairy-knex/issues"
+  },
+  "homepage": "https://github.com/artox-lab/fairy-knex"
+}
