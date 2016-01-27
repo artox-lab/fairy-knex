@@ -1,7 +1,6 @@
 {
   "name": "fairy-knex",
   "version": "0.0.1",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "node index"
@@ -15,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/artox-lab/fairy-knex/issues"
   },
-  "homepage": "https://github.com/artox-lab/fairy-knex"
+  "homepage": "https://github.com/artox-lab/fairy-knex",
+  "description": ""
 }
