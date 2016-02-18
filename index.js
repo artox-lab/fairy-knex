@@ -1,4 +1,6 @@
 'use strict';
-/* jshint node:true */
 
-console.log('Hello! I\'m Fairy Knex.');
+require('babel-register');
+const App = require('./app');
+
+module.exports = App;

@@ -1,0 +1,7 @@
+{
+  "name": "fairy-knex",
+  "script": "index.js",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
