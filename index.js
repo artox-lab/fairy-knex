@@ -1,6 +1,6 @@
 'use strict';
 
 require('babel-register');
-const App = require('./app');
+const FairyKnex = require('./app');
 
-module.exports = App;
+module.exports = FairyKnex;
